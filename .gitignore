@@ -4,7 +4,6 @@
 
 # Salesforce cache
 .sfdx/
-.vscode
 .localdevserver/
 
 # LWC VSCode autocomplete
@@ -31,7 +30,8 @@ node_modules/
 
 # MacOS system files
 .DS_Store
-
+.sfdx
+.vscode
 # Windows system files
 Thumbs.db
 ehthumbs.db
